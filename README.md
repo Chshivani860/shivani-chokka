@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Terraform + AWS CLI Troubleshooting Series](https://github.com/Chshivani860/terraform)
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [chshivani860](chshivani860)
 
